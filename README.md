@@ -1,1 +1,0 @@
-# SQL-Task-5-ER-Diagram-Public
